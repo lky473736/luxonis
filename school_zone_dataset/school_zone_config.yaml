@@ -1,0 +1,7 @@
+names:
+- school_zone_sign
+nc: 1
+path: /Users/alphastation/repository/luxonis/school_zone_dataset
+test: images/test
+train: images/train
+val: images/val
